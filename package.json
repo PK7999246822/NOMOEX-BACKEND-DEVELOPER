@@ -1,0 +1,18 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "this is a connection of binance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "priyanka khatri",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "binance": "^2.0.37",
+    "express": "^4.18.1",
+    "save": "^2.5.0",
+    "socket.io": "^4.5.1"
+  }
+}
